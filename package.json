@@ -1,0 +1,22 @@
+{
+  "name": "puppeteerblacklist",
+  "version": "1.0.0",
+  "description": "Black list oluşturmak için puppeteer,nodejs(esm) kullanılarak yapılmıştır.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "delay": "^5.0.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.6",
+    "puppeteer": "^18.2.1",
+    "string-argv": "^0.3.1"
+  },
+  "author": "Giray AKKAYA (Minexora)",
+  "license": "ISC"
+}

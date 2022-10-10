@@ -1,0 +1,9 @@
+{
+    "urls": [
+        {
+            "url": "https://danger.rulez.sk/projects/bruteforceblocker/blist.php",
+            "type": "ip",
+            "fn": "getIpListFromDangerRulezSk"
+        }
+    ]
+}
